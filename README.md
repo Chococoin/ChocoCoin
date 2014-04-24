@@ -8,7 +8,7 @@ Number of coins per block: 100
 
 Halving at 105120 intervals
 
-2 Minute block targets
+10 Minute block targets
 
 RPCPort: 7777
 
